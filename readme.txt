@@ -1,2 +1,3 @@
 Read me please!
-Add by master.
+<<<<<<< HEAD
+Add by master and feature1.
